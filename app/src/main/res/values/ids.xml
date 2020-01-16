@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvsensors" type="id" />
+    <item name="tvShowAxis" type="id" />
+    <item name="tvGyro" type="id" />
+</resources>
